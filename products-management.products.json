@@ -1,0 +1,358 @@
+[{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354c9"
+  },
+  "title": "iPhone 5s",
+  "description": "The iPhone 5s is a classic smartphone known for its compact design and advanced features during its release. While it's an older model, it still provides a reliable user experience.",
+  "price": 199.99,
+  "discountPercentage": 11.85,
+  "stock": 65,
+  "brand": "Apple",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png",
+  "status": "active",
+  "deleted": false,
+  "position": 9,
+  "deleteAt": {
+    "$date": "2024-09-05T13:46:40.393Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-10T08:21:04.097Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354ca"
+  },
+  "title": "iPhone 6",
+  "description": "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+  "price": 299.89,
+  "stock": 10,
+  "brand": "Apple",
+  "thumbnail": "/uploads/thumbnail-1726145318523",
+  "deleted": false,
+  "position": 1,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-09-13T12:23:30.975Z"
+  },
+  "deleteAt": {
+    "$date": "2024-09-12T10:18:35.735Z"
+  },
+  "slug": "iphone-6"
+},
+{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354cb"
+  },
+  "title": "iPhone 13 Pro",
+  "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+  "price": 1099.99,
+  "stock": 26,
+  "brand": "Apple",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2013%20Pro/thumbnail.png",
+  "deleted": false,
+  "position": 2,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354cc"
+  },
+  "title": "iPhone X",
+  "description": "The iPhone X is a flagship smartphone featuring a bezel-less OLED display, facial recognition technology (Face ID), and impressive performance. It represents a milestone in iPhone design and innovation.",
+  "price": 899.99,
+  "stock": 99,
+  "brand": "Apple",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png",
+  "deleted": false,
+  "position": 3,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354cd"
+  },
+  "title": "Oppo A57",
+  "description": "The Oppo A57 is a mid-range smartphone known for its sleek design and capable features. It offers a balance of performance and affordability, making it a popular choice.",
+  "price": 249.99,
+  "stock": 76,
+  "brand": "Oppo",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/thumbnail.png",
+  "deleted": false,
+  "position": 4,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354ce"
+  },
+  "title": "Oppo F19 Pro Plus",
+  "description": "The Oppo F19 Pro Plus is a feature-rich smartphone with a focus on camera capabilities. It boasts advanced photography features and a powerful performance for a premium user experience.",
+  "price": 399.99,
+  "stock": 92,
+  "brand": "Oppo",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro%20Plus/thumbnail.png",
+  "deleted": false,
+  "position": 5,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354cf"
+  },
+  "title": "Oppo K1",
+  "description": "The Oppo K1 series offers a range of smartphones with various features and specifications. Known for their stylish design and reliable performance, the Oppo K1 series caters to diverse user preferences.",
+  "price": 299.99,
+  "stock": 61,
+  "brand": "Oppo",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/thumbnail.png",
+  "deleted": false,
+  "position": 6,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354d0"
+  },
+  "title": "Realme C35",
+  "description": "The Realme C35 is a budget-friendly smartphone with a focus on providing essential features for everyday use. It offers a reliable performance and user-friendly experience.",
+  "price": 149.99,
+  "stock": 81,
+  "brand": "Realme",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/thumbnail.png",
+  "deleted": false,
+  "position": 7,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354d1"
+  },
+  "title": "Realme X",
+  "description": "The Realme X is a mid-range smartphone known for its sleek design and impressive display. It offers a good balance of performance and camera capabilities for users seeking a quality device.",
+  "price": 299.99,
+  "stock": 87,
+  "brand": "Realme",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/thumbnail.png",
+  "deleted": true,
+  "position": 8,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354d2"
+  },
+  "title": "Samsung Galaxy S7",
+  "description": "The Samsung Galaxy S7 is a flagship smartphone known for its sleek design and advanced features. It features a high-resolution display, powerful camera, and robust performance.",
+  "price": 299.99,
+  "stock": 55,
+  "brand": "Samsung",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/thumbnail.png",
+  "deleted": false,
+  "position": 9,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354d3"
+  },
+  "title": "Samsung Galaxy S8",
+  "description": "The Samsung Galaxy S8 is a premium smartphone with an Infinity Display, offering a stunning visual experience. It boasts advanced camera capabilities and cutting-edge technology.",
+  "price": 499.99,
+  "stock": 75,
+  "brand": "Samsung",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/thumbnail.png",
+  "deleted": false,
+  "position": 10,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354d4"
+  },
+  "title": "Samsung Galaxy S10",
+  "description": "The Samsung Galaxy S10 is a flagship device featuring a dynamic AMOLED display, versatile camera system, and powerful performance. It represents innovation and excellence in smartphone technology.",
+  "price": 699.99,
+  "stock": 40,
+  "brand": "Samsung",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/thumbnail.png",
+  "deleted": false,
+  "position": 11,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354d5"
+  },
+  "title": "Vivo S1",
+  "description": "The Vivo S1 is a stylish and mid-range smartphone offering a blend of design and performance. It features a vibrant display, capable camera system, and reliable functionality.",
+  "price": 249.99,
+  "stock": 13,
+  "brand": "Vivo",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png",
+  "deleted": true,
+  "position": 12,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354d6"
+  },
+  "title": "Vivo V9",
+  "description": "The Vivo V9 is a smartphone known for its sleek design and emphasis on capturing high-quality selfies. It features a notch display, dual-camera setup, and a modern design.",
+  "price": 299.99,
+  "stock": 19,
+  "brand": "Vivo",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20V9/thumbnail.png",
+  "deleted": false,
+  "position": 13,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "66d32001888ff7cabba354d7"
+  },
+  "title": "Vivo X21",
+  "description": "The Vivo X21 is a premium smartphone with a focus on cutting-edge technology. It features an in-display fingerprint sensor, a high-resolution display, and advanced camera capabilities.",
+  "price": 499.99,
+  "brand": "Vivo",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20X21/thumbnail.png",
+  "deleted": false,
+  "position": 14,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "66e000a15162994917d39f14"
+  },
+  "title": "iphone 12 Pro",
+  "description": "",
+  "price": 299,
+  "brand": "Apple",
+  "thumbnail": "/uploads/thumbnail-1725956257915",
+  "status": "active",
+  "stock": 1,
+  "position": 16,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-09-10T08:17:37.933Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-10T08:17:37.933Z"
+  },
+  "slug": "iphone-12-pro",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e000ca5162994917d39f1e"
+  },
+  "title": "iphone 14 ProMax",
+  "description": "Sản xuất năm 2023",
+  "price": 399,
+  "brand": "Apple",
+  "thumbnail": "/uploads/thumbnail-1725956298543",
+  "status": "active",
+  "stock": 20,
+  "position": 17,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-09-10T08:18:18.555Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-10T08:18:18.555Z"
+  },
+  "slug": "iphone-14-promax",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e000f15162994917d39f28"
+  },
+  "title": "Airpod 4",
+  "description": "Sản xuất cuối năm 2024",
+  "price": 359,
+  "brand": "Apple",
+  "thumbnail": "/uploads/thumbnail-1725956337942",
+  "status": "active",
+  "stock": 20,
+  "position": 18,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-09-10T08:18:57.951Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-10T08:18:57.951Z"
+  },
+  "slug": "airpod-4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e001385162994917d39f3a"
+  },
+  "title": "SamSung S21 Ultra",
+  "description": "",
+  "price": 499,
+  "brand": "SamSung",
+  "thumbnail": "/uploads/thumbnail-1725956408784",
+  "status": "active",
+  "stock": 50,
+  "position": 20,
+  "deleted": true,
+  "createdAt": {
+    "$date": "2024-09-10T08:20:08.792Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-10T08:23:05.693Z"
+  },
+  "slug": "samsung-s21-ultra",
+  "__v": 0,
+  "deleteAt": {
+    "$date": "2024-09-10T08:23:05.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66e002005162994917d39f6e"
+  },
+  "title": "SamSung S20 Ultra",
+  "description": "",
+  "price": 299,
+  "brand": "SamSung",
+  "thumbnail": "/uploads/thumbnail-1725956608445",
+  "status": "active",
+  "stock": 15,
+  "position": 21,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-09-10T08:23:28.451Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-10T08:23:28.451Z"
+  },
+  "slug": "samsung-s20-ultra",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2c422797e124f694ac597"
+  },
+  "title": "ipad pro M4",
+  "description": "",
+  "price": 2700,
+  "brand": "Apple",
+  "thumbnail": "/uploads/thumbnail-1726137378111",
+  "status": "active",
+  "stock": 100,
+  "position": 21,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-09-12T10:36:18.136Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-12T10:36:18.136Z"
+  },
+  "slug": "ipad-pro-m4",
+  "__v": 0
+}]

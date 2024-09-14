@@ -1,0 +1,46 @@
+extends ../../layouts/default.pug
+
+
+block main 
+    h1 Trang Chi tiết sản phẩm
+    br
+    form(
+        action=`${prefixAdmin}/products/edit/${products.id}?_method=PATCH`
+        id="form-edit-product"
+        enctype="multipart/form-data"
+        method = "POST"
+    )
+        if(products.title)
+            div(class="mb-4" style="font-size: 20px") <b>#{products.title}</b>
+    
+        if(products.price)
+            div(class="mb-4") Giá: <b>#{products.price}</b>
+    
+        if(products.brand)
+            div(class="mb-4") Brand:  <b>#{products.brand}</b>
+    
+        if(products.stock)
+            div(class="mb-4") Còn lại:  <b>#{products.stock}</b>
+    
+        if(products.thumbnail)
+            div(class="mb-4") Hình ảnh: 
+                img(src= products.thumbnail style="width: 150px" )
+    
+        if(products.status)
+            div(class="mb-4")
+                span Trạng thái: 
+                if(products.status === "active")
+                    span(class="badge badge-success") Hoạt động
+                else
+                    span(class="badge badge-danger") Dừng hoạt động
+            
+    
+        if(products.position)
+            div(class="mb-4") Vị trí: <b>#{products.position}</b>
+    
+        if(products.description)
+            div(class="mb-4") #{products.description}
+    
+        a(href=`/products` class="btn btn-success") Trở về
+    
+        script(src="/JS/admin/scripts.js") 
